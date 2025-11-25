@@ -95,6 +95,7 @@ import cv2
 - numpy
 - opencv-python
 - paho-mqtt
+- json5
   
 ---
 
